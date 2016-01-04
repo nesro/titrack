@@ -5,3 +5,5 @@ see where your lost time is.
 # TODO
 - parameters: verbose, set time interval
 - statistics, graphs
+- lock in .titrack so that only one titrack is running
+- oh god fix typos
