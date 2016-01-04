@@ -7,3 +7,4 @@ see where your lost time is.
 - statistics, graphs
 - lock in .titrack so that only one titrack is running
 - oh god fix typos
+- separate browser tabs (f.ex. facebook in chrome)
